@@ -1,52 +1,54 @@
+```json
 [
   {
-    "name": "RC Airplanes",
-    "Description": "Remote-controlled airplanes for hobbyists and professionals.",
-    "image": "https://github.com/Mparrao3/Imagenes/blob/main/Rc-airplanes.jpg"
+    "nombre": "Aviones RC",
+    "Descripción": "Aviones controlados remotamente para aficionados y profesionales.",
+    "imagen": "https://github.com/Mparrao3/Imagenes/blob/main/Rc-airplanes.jpg"
   },
   {
-    "name": "RC Helicopters",
-    "Description": "High-performance RC helicopters for aerial acrobatics.",
-    "image": "https://github.com/Mparrao3/Imagenes/blob/main/best-rc-helicopters.jpg"
+    "nombre": "Helicópteros RC",
+    "Descripción": "Helicópteros RC de alto rendimiento para acrobacias aéreas.",
+    "imagen": "https://github.com/Mparrao3/Imagenes/blob/main/best-rc-helicopters.jpg"
   },
   {
-    "name": "Drones",
-    "Description": "Advanced drones with camera capabilities for aerial photography.",
-    "image": "https://github.com/Mparrao3/Imagenes/blob/main/0716_drone.jpg"
+    "nombre": "Drones",
+    "Descripción": "Drones avanzados con capacidades de cámara para fotografía aérea.",
+    "imagen": "https://github.com/Mparrao3/Imagenes/blob/main/0716_drone.jpg"
   },
   {
-    "name": "Gliders",
-    "Description": "Lightweight gliders designed for smooth, silent flights.",
-    "image": "https://github.com/Mparrao3/Imagenes/blob/main/glide-ride-1024x700.jpg"
+    "nombre": "Planeadores",
+    "Descripción": "Planeadores ligeros diseñados para vuelos suaves y silenciosos.",
+    "imagen": "https://github.com/Mparrao3/Imagenes/blob/main/glide-ride-1024x700.jpg"
   },
   {
-    "name": "Jets",
-    "Description": "High-speed RC jets for thrilling aerobatic maneuvers.",
-    "image": "https://github.com/Mparrao3/Imagenes/blob/main/Jets.jpg"
+    "nombre": "Jets",
+    "Descripción": "Jets RC de alta velocidad para emocionantes maniobras acrobáticas.",
+    "imagen": "https://github.com/Mparrao3/Imagenes/blob/main/Jets.jpg"
   },
   {
-    "name": "Scale Models",
-    "Description": "Detailed scale models replicating real-life aircraft.",
-    "image": "https://github.com/Mparrao3/Imagenes/blob/main/Scale.jpg"
+    "nombre": "Modelos a Escala",
+    "Descripción": "Modelos a escala detallados que replican aeronaves de la vida real.",
+    "imagen": "https://github.com/Mparrao3/Imagenes/blob/main/Scale.jpg"
   },
   {
-    "name": "Quadcopters",
-    "Description": "Stable and easy-to-fly quadcopters for beginners and experts.",
-    "image": "https://github.com/Mparrao3/Imagenes/blob/main/Quadrocopters.jpg"
+    "nombre": "Cuadricópteros",
+    "Descripción": "Cuadricópteros estables y fáciles de volar para principiantes y expertos.",
+    "imagen": "https://github.com/Mparrao3/Imagenes/blob/main/Quadrocopters.jpg"
   },
   {
-    "name": "Accessories",
-    "Description": "Essential accessories including batteries, chargers, and spare parts.",
-    "image": "empty"
+    "nombre": "Accesorios",
+    "Descripción": "Accesorios esenciales que incluyen baterías, cargadores y piezas de repuesto.",
+    "imagen": "vacío"
   },
   {
-    "name": "Simulators",
-    "Description": "Flight simulators to practice and improve your flying skills.",
-    "image": "empty"
+    "nombre": "Simuladores",
+    "Descripción": "Simuladores de vuelo para practicar y mejorar tus habilidades de vuelo.",
+    "imagen": "vacío"
   },
   {
-    "name": "Building Kits",
-    "Description": "Comprehensive kits for building your own RC models from scratch.",
-    "image": "empty"
+    "nombre": "Kits de Construcción",
+    "Descripción": "Kits completos para construir tus propios modelos de RC desde cero.",
+    "imagen": "vacío"
   }
 ]
+```
