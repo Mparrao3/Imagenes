@@ -1,0 +1,52 @@
+[
+  {
+    "name": "RC Airplanes",
+    "Description": "Remote-controlled airplanes for hobbyists and professionals.",
+    "image": "empty"
+  },
+  {
+    "name": "RC Helicopters",
+    "Description": "High-performance RC helicopters for aerial acrobatics.",
+    "image": "empty"
+  },
+  {
+    "name": "Drones",
+    "Description": "Advanced drones with camera capabilities for aerial photography.",
+    "image": "empty"
+  },
+  {
+    "name": "Gliders",
+    "Description": "Lightweight gliders designed for smooth, silent flights.",
+    "image": "empty"
+  },
+  {
+    "name": "Jets",
+    "Description": "High-speed RC jets for thrilling aerobatic maneuvers.",
+    "image": "empty"
+  },
+  {
+    "name": "Scale Models",
+    "Description": "Detailed scale models replicating real-life aircraft.",
+    "image": "empty"
+  },
+  {
+    "name": "Quadcopters",
+    "Description": "Stable and easy-to-fly quadcopters for beginners and experts.",
+    "image": "empty"
+  },
+  {
+    "name": "Accessories",
+    "Description": "Essential accessories including batteries, chargers, and spare parts.",
+    "image": "empty"
+  },
+  {
+    "name": "Simulators",
+    "Description": "Flight simulators to practice and improve your flying skills.",
+    "image": "empty"
+  },
+  {
+    "name": "Building Kits",
+    "Description": "Comprehensive kits for building your own RC models from scratch.",
+    "image": "empty"
+  }
+]
